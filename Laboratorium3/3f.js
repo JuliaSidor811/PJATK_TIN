@@ -1,0 +1,1 @@
+//Funkcja sprawdzajaca, czy zadana liczba, jest liczba pierwsza

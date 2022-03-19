@@ -1,1 +1,1 @@
-//Binary search w zadanej tablicy
+//Binary search w zadanej tablicy :)
